@@ -28,6 +28,8 @@ function App() {
         & Linear Algebra</p>
         </div>
 
+        <div id='skill_section'>
+      
         <h3>TECHNICAL SKILLS</h3>
         <div id="skills" class="skills-grid">
         <div class="skill-category">
@@ -47,7 +49,7 @@ function App() {
           <p>Jira, Confluence, Teams, Microsoft 365</p>
         </div>
       </div>
-        
+      </div>
       <div id="experience" class="experience">
         <h3>PROJECT EXPERIENCE</h3>
           <h4>Whatsapp Clone: Java, Android Studio, Firebase</h4>
