@@ -28,9 +28,8 @@ function App() {
         & Linear Algebra</p>
         </div>
 
-        <div id='skill_section'>
-      
         <h3>TECHNICAL SKILLS</h3>
+        <div id='skill_section'>
         <div id="skills" class="skills-grid">
         <div class="skill-category">
           <h4>Programming Languages: </h4>
